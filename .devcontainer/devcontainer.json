@@ -1,5 +1,5 @@
 {
-    "name": "osl-t-test",
+    "name": "osl-practice",
     "dockerFile": "Dockerfile",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash",

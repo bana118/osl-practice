@@ -1,2 +1,2 @@
-# osl-t-test
-OSLのt検定(https://sites.trinity.edu/osl/data-sets-and-activities/t-test-activities)にあるオープンデータを用いたt検定の練習
+# osl-practice
+OSLを用いた統計処理の練習 https://sites.trinity.edu/osl
